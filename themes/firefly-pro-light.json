@@ -94,7 +94,7 @@
         "tab.unfocusedInactiveForeground": "#3d424d",
         
 		"editor.background": "#ECF0F3",
-		"editor.foreground": "#032F3E",
+		"editor.foreground": "#355965",
 		"editorLineNumber.foreground": "#4d5466",
 		"editorLineNumber.activeForeground": "#3d424de6",
 		"editorCursor.foreground": "#bde5f1",
